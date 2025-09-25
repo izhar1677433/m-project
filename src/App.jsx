@@ -4,7 +4,7 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Login from "./pages/Login";
 import Home from "./pages/Home";
-import LostPassword from "./components/lostpassword";
+import LostPassword from "./components/LostPassword";
 import SentPassword from "./components/SentPassword";
 import NotmatchPassword from "./components/NotmatchPassword";
 import Checkout from "./components/Checkout";
