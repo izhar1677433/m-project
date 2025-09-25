@@ -21,7 +21,7 @@ const Cart = () => {
             Total
           </p>
         </div>
-        
+        <div></div>
       </div>
     </div>
   );
